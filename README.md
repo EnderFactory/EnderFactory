@@ -1,2 +1,2 @@
-# Le Lab Genève
+# EnderFactory
 ### 👋 Bienvenue sur notre GitHub ! 
